@@ -58,6 +58,46 @@ $aspmhelpersetup_aspm_10_head        = isset($aspmhelpersetup['aspm_10_head']) ?
 $aspmhelpersetup_aspm_10_root        = isset($aspmhelpersetup['aspm_10_root']) ? $aspmhelpersetup['aspm_10_root'] : "";
 $aspmhelpersetup_aspm_10_mode        = isset($aspmhelpersetup['aspm_10_mode']) ? $aspmhelpersetup['aspm_10_mode'] : "";
 $aspmhelpersetup_aspm_10_state        = isset($aspmhelpersetup['aspm_10_state']) ? $aspmhelpersetup['aspm_10_state'] : "";
+$aspmhelpersetup_aspm_11_head        = isset($aspmhelpersetup['aspm_11_head']) ? $aspmhelpersetup['aspm_11_head'] : "";
+$aspmhelpersetup_aspm_11_root        = isset($aspmhelpersetup['aspm_11_root']) ? $aspmhelpersetup['aspm_11_root'] : "";
+$aspmhelpersetup_aspm_11_mode        = isset($aspmhelpersetup['aspm_11_mode']) ? $aspmhelpersetup['aspm_11_mode'] : "";
+$aspmhelpersetup_aspm_11_state        = isset($aspmhelpersetup['aspm_11_state']) ? $aspmhelpersetup['aspm_11_state'] : "";
+$aspmhelpersetup_aspm_12_head        = isset($aspmhelpersetup['aspm_12_head']) ? $aspmhelpersetup['aspm_12_head'] : "";
+$aspmhelpersetup_aspm_12_root        = isset($aspmhelpersetup['aspm_12_root']) ? $aspmhelpersetup['aspm_12_root'] : "";
+$aspmhelpersetup_aspm_12_mode        = isset($aspmhelpersetup['aspm_12_mode']) ? $aspmhelpersetup['aspm_12_mode'] : "";
+$aspmhelpersetup_aspm_12_state        = isset($aspmhelpersetup['aspm_12_state']) ? $aspmhelpersetup['aspm_12_state'] : "";
+$aspmhelpersetup_aspm_13_head        = isset($aspmhelpersetup['aspm_13_head']) ? $aspmhelpersetup['aspm_13_head'] : "";
+$aspmhelpersetup_aspm_13_root        = isset($aspmhelpersetup['aspm_13_root']) ? $aspmhelpersetup['aspm_13_root'] : "";
+$aspmhelpersetup_aspm_13_mode        = isset($aspmhelpersetup['aspm_13_mode']) ? $aspmhelpersetup['aspm_13_mode'] : "";
+$aspmhelpersetup_aspm_13_state        = isset($aspmhelpersetup['aspm_13_state']) ? $aspmhelpersetup['aspm_13_state'] : "";
+$aspmhelpersetup_aspm_14_head        = isset($aspmhelpersetup['aspm_14_head']) ? $aspmhelpersetup['aspm_14_head'] : "";
+$aspmhelpersetup_aspm_14_root        = isset($aspmhelpersetup['aspm_14_root']) ? $aspmhelpersetup['aspm_14_root'] : "";
+$aspmhelpersetup_aspm_14_mode        = isset($aspmhelpersetup['aspm_14_mode']) ? $aspmhelpersetup['aspm_14_mode'] : "";
+$aspmhelpersetup_aspm_14_state        = isset($aspmhelpersetup['aspm_14_state']) ? $aspmhelpersetup['aspm_14_state'] : "";
+$aspmhelpersetup_aspm_15_head        = isset($aspmhelpersetup['aspm_15_head']) ? $aspmhelpersetup['aspm_15_head'] : "";
+$aspmhelpersetup_aspm_15_root        = isset($aspmhelpersetup['aspm_15_root']) ? $aspmhelpersetup['aspm_15_root'] : "";
+$aspmhelpersetup_aspm_15_mode        = isset($aspmhelpersetup['aspm_15_mode']) ? $aspmhelpersetup['aspm_15_mode'] : "";
+$aspmhelpersetup_aspm_15_state        = isset($aspmhelpersetup['aspm_15_state']) ? $aspmhelpersetup['aspm_15_state'] : "";
+$aspmhelpersetup_aspm_16_head        = isset($aspmhelpersetup['aspm_16_head']) ? $aspmhelpersetup['aspm_16_head'] : "";
+$aspmhelpersetup_aspm_16_root        = isset($aspmhelpersetup['aspm_16_root']) ? $aspmhelpersetup['aspm_16_root'] : "";
+$aspmhelpersetup_aspm_16_mode        = isset($aspmhelpersetup['aspm_16_mode']) ? $aspmhelpersetup['aspm_16_mode'] : "";
+$aspmhelpersetup_aspm_16_state        = isset($aspmhelpersetup['aspm_16_state']) ? $aspmhelpersetup['aspm_16_state'] : "";
+$aspmhelpersetup_aspm_17_head        = isset($aspmhelpersetup['aspm_17_head']) ? $aspmhelpersetup['aspm_17_head'] : "";
+$aspmhelpersetup_aspm_17_root        = isset($aspmhelpersetup['aspm_17_root']) ? $aspmhelpersetup['aspm_17_root'] : "";
+$aspmhelpersetup_aspm_17_mode        = isset($aspmhelpersetup['aspm_17_mode']) ? $aspmhelpersetup['aspm_17_mode'] : "";
+$aspmhelpersetup_aspm_17_state        = isset($aspmhelpersetup['aspm_17_state']) ? $aspmhelpersetup['aspm_17_state'] : "";
+$aspmhelpersetup_aspm_18_head        = isset($aspmhelpersetup['aspm_18_head']) ? $aspmhelpersetup['aspm_18_head'] : "";
+$aspmhelpersetup_aspm_18_root        = isset($aspmhelpersetup['aspm_18_root']) ? $aspmhelpersetup['aspm_18_root'] : "";
+$aspmhelpersetup_aspm_18_mode        = isset($aspmhelpersetup['aspm_18_mode']) ? $aspmhelpersetup['aspm_18_mode'] : "";
+$aspmhelpersetup_aspm_18_state        = isset($aspmhelpersetup['aspm_18_state']) ? $aspmhelpersetup['aspm_18_state'] : "";
+$aspmhelpersetup_aspm_19_head        = isset($aspmhelpersetup['aspm_19_head']) ? $aspmhelpersetup['aspm_19_head'] : "";
+$aspmhelpersetup_aspm_19_root        = isset($aspmhelpersetup['aspm_19_root']) ? $aspmhelpersetup['aspm_19_root'] : "";
+$aspmhelpersetup_aspm_19_mode        = isset($aspmhelpersetup['aspm_19_mode']) ? $aspmhelpersetup['aspm_19_mode'] : "";
+$aspmhelpersetup_aspm_19_state        = isset($aspmhelpersetup['aspm_19_state']) ? $aspmhelpersetup['aspm_19_state'] : "";
+$aspmhelpersetup_aspm_20_head        = isset($aspmhelpersetup['aspm_20_head']) ? $aspmhelpersetup['aspm_20_head'] : "";
+$aspmhelpersetup_aspm_20_root        = isset($aspmhelpersetup['aspm_20_root']) ? $aspmhelpersetup['aspm_20_root'] : "";
+$aspmhelpersetup_aspm_20_mode        = isset($aspmhelpersetup['aspm_20_mode']) ? $aspmhelpersetup['aspm_20_mode'] : "";
+$aspmhelpersetup_aspm_20_state        = isset($aspmhelpersetup['aspm_20_state']) ? $aspmhelpersetup['aspm_20_state'] : "";
 // Log
 $aspmhelpersetup_syslog        = isset($aspmhelpersetup['syslog']) ? $aspmhelpersetup['syslog'] : "";
 ?>
@@ -124,6 +164,66 @@ $aspmhelpersetup_syslog        = isset($aspmhelpersetup['syslog']) ? $aspmhelper
             document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm10_on.sh";
         } else if( command == "execute_aspm_10_off" ){
             document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm10_off.sh";
+        } else if (command == "execute_aspm_11"){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm11.sh";
+        } else if( command == "execute_aspm_11_on" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm11_on.sh";
+        } else if( command == "execute_aspm_11_off" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm11_off.sh";
+        } else if (command == "execute_aspm_12"){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm12.sh";
+        } else if( command == "execute_aspm_12_on" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm12_on.sh";
+        } else if( command == "execute_aspm_12_off" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm12_off.sh";
+        } else if (command == "execute_aspm_13"){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm13.sh";
+        } else if( command == "execute_aspm_13_on" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm13_on.sh";
+        } else if( command == "execute_aspm_13_off" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm13_off.sh";
+        } else if (command == "execute_aspm_14"){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm14.sh";
+        } else if( command == "execute_aspm_14_on" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm14_on.sh";
+        } else if( command == "execute_aspm_14_off" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm14_off.sh";
+        } else if (command == "execute_aspm_15"){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm15.sh";
+        } else if( command == "execute_aspm_15_on" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm15_on.sh";
+        } else if( command == "execute_aspm_15_off" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm15_off.sh";
+        } else if (command == "execute_aspm_16"){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm16.sh";
+        } else if( command == "execute_aspm_16_on" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm16_on.sh";
+        } else if( command == "execute_aspm_16_off" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm16_off.sh";
+        } else if (command == "execute_aspm_17"){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm17.sh";
+        } else if( command == "execute_aspm_17_on" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm17_on.sh";
+        } else if( command == "execute_aspm_17_off" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm17_off.sh";
+        } else if (command == "execute_aspm_18"){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm18.sh";
+        } else if( command == "execute_aspm_18_on" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm18_on.sh";
+        } else if( command == "execute_aspm_18_off" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm18_off.sh";
+        } else if (command == "execute_aspm_19"){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm19.sh";
+        } else if( command == "execute_aspm_19_on" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm19_on.sh";
+        } else if( command == "execute_aspm_19_off" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm19_off.sh";
+        } else if (command == "execute_aspm_20"){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm20.sh";
+        } else if( command == "execute_aspm_20_on" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm20_on.sh";
+        } else if( command == "execute_aspm_20_off" ){
+            document.getElementById("command").value = "/usr/local/emhttp/plugins/aspm-helper/scripts/aspm20_off.sh";
         }
         document.getElementById("form").submit();
     }
@@ -277,6 +377,147 @@ $aspmhelpersetup_syslog        = isset($aspmhelpersetup['syslog']) ? $aspmhelper
 		<p>EXECUTE will run only once, AUTOSTART ON will run on every reboot</p>
     </blockquote>
 </div>
+<div style="text-align: center;">
+<input type="button" value="ASPM 11">
+<input type="text" name="aspm_11_head" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_10_head;?>" placeholder="DEVICE" >
+<input type="text" name="aspm_11_root" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_10_root;?>" placeholder="ROOT" >
+<input type="text" name="aspm_11_mode" class="narrow" maxlength="1" value="<?=$aspmhelpersetup_aspm_10_mode;?>" placeholder="MODE" >
+<input type="button" value="Execute" onClick="send('execute_aspm_11')">
+<input type="button" value="AUTOSTART ON" onClick="send('execute_aspm_11_on')">
+<input type="button" value="AUTOSTART OFF" onClick="send('execute_aspm_11_off')">
+<input type="button" value="<?php echo $aspmhelpersetup['aspm_11_state']; ?>"/>
+    <blockquote class='inline_help'>
+        <p>insert Device ID like 01:00.0, Root Complex ID like 00:1c.0, ASPM Mode like 2, see found disabled aspm devices, also see INFO & HELP Section to see all devices and tree</p>
+		<p>EXECUTE will run only once, AUTOSTART ON will run on every reboot</p>
+    </blockquote>
+</div>
+<div style="text-align: center;">
+<input type="button" value="ASPM 12">
+<input type="text" name="aspm_12_head" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_12_head;?>" placeholder="DEVICE" >
+<input type="text" name="aspm_12_root" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_12_root;?>" placeholder="ROOT" >
+<input type="text" name="aspm_12_mode" class="narrow" maxlength="1" value="<?=$aspmhelpersetup_aspm_12_mode;?>" placeholder="MODE" >
+<input type="button" value="Execute" onClick="send('execute_aspm_12')">
+<input type="button" value="AUTOSTART ON" onClick="send('execute_aspm_12_on')">
+<input type="button" value="AUTOSTART OFF" onClick="send('execute_aspm_12_off')">
+<input type="button" value="<?php echo $aspmhelpersetup['aspm_12_state']; ?>"/>
+    <blockquote class='inline_help'>
+        <p>insert Device ID like 01:00.0, Root Complex ID like 00:1c.0, ASPM Mode like 2, see found disabled aspm devices, also see INFO & HELP Section to see all devices and tree</p>
+		<p>EXECUTE will run only once, AUTOSTART ON will run on every reboot</p>
+    </blockquote>
+</div>
+<div style="text-align: center;">
+<input type="button" value="ASPM 13">
+<input type="text" name="aspm_13_head" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_13_head;?>" placeholder="DEVICE" >
+<input type="text" name="aspm_13_root" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_13_root;?>" placeholder="ROOT" >
+<input type="text" name="aspm_13_mode" class="narrow" maxlength="1" value="<?=$aspmhelpersetup_aspm_13_mode;?>" placeholder="MODE" >
+<input type="button" value="Execute" onClick="send('execute_aspm_13')">
+<input type="button" value="AUTOSTART ON" onClick="send('execute_aspm_13_on')">
+<input type="button" value="AUTOSTART OFF" onClick="send('execute_aspm_13_off')">
+<input type="button" value="<?php echo $aspmhelpersetup['aspm_13_state']; ?>"/>
+    <blockquote class='inline_help'>
+        <p>insert Device ID like 01:00.0, Root Complex ID like 00:1c.0, ASPM Mode like 2, see found disabled aspm devices, also see INFO & HELP Section to see all devices and tree</p>
+		<p>EXECUTE will run only once, AUTOSTART ON will run on every reboot</p>
+    </blockquote>
+</div>
+<div style="text-align: center;">
+<input type="button" value="ASPM 14">
+<input type="text" name="aspm_14_head" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_14_head;?>" placeholder="DEVICE" >
+<input type="text" name="aspm_14_root" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_14_root;?>" placeholder="ROOT" >
+<input type="text" name="aspm_14_mode" class="narrow" maxlength="1" value="<?=$aspmhelpersetup_aspm_14_mode;?>" placeholder="MODE" >
+<input type="button" value="Execute" onClick="send('execute_aspm_14')">
+<input type="button" value="AUTOSTART ON" onClick="send('execute_aspm_14_on')">
+<input type="button" value="AUTOSTART OFF" onClick="send('execute_aspm_14_off')">
+<input type="button" value="<?php echo $aspmhelpersetup['aspm_14_state']; ?>"/>
+    <blockquote class='inline_help'>
+        <p>insert Device ID like 01:00.0, Root Complex ID like 00:1c.0, ASPM Mode like 2, see found disabled aspm devices, also see INFO & HELP Section to see all devices and tree</p>
+		<p>EXECUTE will run only once, AUTOSTART ON will run on every reboot</p>
+    </blockquote>
+</div>
+<div style="text-align: center;">
+<input type="button" value="ASPM 15">
+<input type="text" name="aspm_15_head" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_15_head;?>" placeholder="DEVICE" >
+<input type="text" name="aspm_15_root" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_15_root;?>" placeholder="ROOT" >
+<input type="text" name="aspm_15_mode" class="narrow" maxlength="1" value="<?=$aspmhelpersetup_aspm_15_mode;?>" placeholder="MODE" >
+<input type="button" value="Execute" onClick="send('execute_aspm_15')">
+<input type="button" value="AUTOSTART ON" onClick="send('execute_aspm_15_on')">
+<input type="button" value="AUTOSTART OFF" onClick="send('execute_aspm_15_off')">
+<input type="button" value="<?php echo $aspmhelpersetup['aspm_15_state']; ?>"/>
+    <blockquote class='inline_help'>
+        <p>insert Device ID like 01:00.0, Root Complex ID like 00:1c.0, ASPM Mode like 2, see found disabled aspm devices, also see INFO & HELP Section to see all devices and tree</p>
+		<p>EXECUTE will run only once, AUTOSTART ON will run on every reboot</p>
+    </blockquote>
+</div>
+<div style="text-align: center;">
+<input type="button" value="ASPM 16">
+<input type="text" name="aspm_16_head" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_16_head;?>" placeholder="DEVICE" >
+<input type="text" name="aspm_16_root" class="narrow" maxlength="15" value="<?=$aspmhelpersetup_aspm_16_root;?>" placeholder="ROOT" >
+<input type="text" name="aspm_16_mode" class="narrow" maxlength="1" value="<?=$aspmhelpersetup_aspm_16_mode;?>" placeholder="MODE" >
+<input type="button" value="Execute" onClick="send('execute_aspm_16')">
+<input type="button" value="AUTOSTART ON" onClick="send('execute_aspm_16_on')">
+<input type="button" value="AUTOSTART OFF" onClick="send('execute_aspm_16_off')">
+<input type="button" value="<?php echo $aspmhelpersetup['aspm_16_state']; ?>"/>
+    <blockquote class='inline_help'>
+        <p>insert Device ID like 01:00.0, Root Complex ID like 00:1c.0, ASPM Mode like 2, see found disabled aspm devices, also see INFO & HELP Section to see all devices and tree</p>
+		<p>EXECUTE will run only once, AUTOSTART ON will run on every reboot</p>
+    </blockquote>
+</div>
+<div style="text-align: center;">
+<input type="button" value="ASPM 17">
+<input type="text" name="aspm_17_head" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_17_head;?>" placeholder="DEVICE" >
+<input type="text" name="aspm_17_root" class="narrow" maxlength="15" value="<?=$aspmhelpersetup_aspm_17_root;?>" placeholder="ROOT" >
+<input type="text" name="aspm_17_mode" class="narrow" maxlength="1" value="<?=$aspmhelpersetup_aspm_17_mode;?>" placeholder="MODE" >
+<input type="button" value="Execute" onClick="send('execute_aspm_17')">
+<input type="button" value="AUTOSTART ON" onClick="send('execute_aspm_17_on')">
+<input type="button" value="AUTOSTART OFF" onClick="send('execute_aspm_17_off')">
+<input type="button" value="<?php echo $aspmhelpersetup['aspm_17_state']; ?>"/>
+    <blockquote class='inline_help'>
+        <p>insert Device ID like 01:00.0, Root Complex ID like 00:1c.0, ASPM Mode like 2, see found disabled aspm devices, also see INFO & HELP Section to see all devices and tree</p>
+		<p>EXECUTE will run only once, AUTOSTART ON will run on every reboot</p>
+    </blockquote>
+</div>
+<div style="text-align: center;">
+<input type="button" value="ASPM 18">
+<input type="text" name="aspm_18_head" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_18_head;?>" placeholder="DEVICE" >
+<input type="text" name="aspm_18_root" class="narrow" maxlength="15" value="<?=$aspmhelpersetup_aspm_18_root;?>" placeholder="ROOT" >
+<input type="text" name="aspm_18_mode" class="narrow" maxlength="1" value="<?=$aspmhelpersetup_aspm_18_mode;?>" placeholder="MODE" >
+<input type="button" value="Execute" onClick="send('execute_aspm_18')">
+<input type="button" value="AUTOSTART ON" onClick="send('execute_aspm_18_on')">
+<input type="button" value="AUTOSTART OFF" onClick="send('execute_aspm_18_off')">
+<input type="button" value="<?php echo $aspmhelpersetup['aspm_18_state']; ?>"/>
+    <blockquote class='inline_help'>
+        <p>insert Device ID like 01:00.0, Root Complex ID like 00:1c.0, ASPM Mode like 2, see found disabled aspm devices, also see INFO & HELP Section to see all devices and tree</p>
+		<p>EXECUTE will run only once, AUTOSTART ON will run on every reboot</p>
+    </blockquote>
+</div>
+<div style="text-align: center;">
+<input type="button" value="ASPM 19">
+<input type="text" name="aspm_19_head" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_19_head;?>" placeholder="DEVICE" >
+<input type="text" name="aspm_19_root" class="narrow" maxlength="15" value="<?=$aspmhelpersetup_aspm_19_root;?>" placeholder="ROOT" >
+<input type="text" name="aspm_19_mode" class="narrow" maxlength="1" value="<?=$aspmhelpersetup_aspm_19_mode;?>" placeholder="MODE" >
+<input type="button" value="Execute" onClick="send('execute_aspm_19')">
+<input type="button" value="AUTOSTART ON" onClick="send('execute_aspm_19_on')">
+<input type="button" value="AUTOSTART OFF" onClick="send('execute_aspm_19_off')">
+<input type="button" value="<?php echo $aspmhelpersetup['aspm_19_state']; ?>"/>
+    <blockquote class='inline_help'>
+        <p>insert Device ID like 01:00.0, Root Complex ID like 00:1c.0, ASPM Mode like 2, see found disabled aspm devices, also see INFO & HELP Section to see all devices and tree</p>
+		<p>EXECUTE will run only once, AUTOSTART ON will run on every reboot</p>
+    </blockquote>
+</div>
+<div style="text-align: center;">
+<input type="button" value="ASPM 20">
+<input type="text" name="aspm_20_head" class="narrow" maxlength="7" value="<?=$aspmhelpersetup_aspm_20_head;?>" placeholder="DEVICE" >
+<input type="text" name="aspm_20_root" class="narrow" maxlength="15" value="<?=$aspmhelpersetup_aspm_20_root;?>" placeholder="ROOT" >
+<input type="text" name="aspm_20_mode" class="narrow" maxlength="1" value="<?=$aspmhelpersetup_aspm_20_mode;?>" placeholder="MODE" >
+<input type="button" value="Execute" onClick="send('execute_aspm_20')">
+<input type="button" value="AUTOSTART ON" onClick="send('execute_aspm_20_on')">
+<input type="button" value="AUTOSTART OFF" onClick="send('execute_aspm_20_off')">
+<input type="button" value="<?php echo $aspmhelpersetup['aspm_20_state']; ?>"/>
+    <blockquote class='inline_help'>
+        <p>insert Device ID like 01:00.0, Root Complex ID like 00:1c.0, ASPM Mode like 2, see found disabled aspm devices, also see INFO & HELP Section to see all devices and tree</p>
+		<p>EXECUTE will run only once, AUTOSTART ON will run on every reboot</p>
+    </blockquote>
+</div>
+
 
 <div style="text-align: center;">
     <input type="button" value="Apply" onClick="send('apply')">
